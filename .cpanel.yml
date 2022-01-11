@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/sinsesste/public_html/jataq/portal/
+    - export DEPLOYPATH=/home3/sinesste/public_html/jataq/portal/
     - /bin/cp -a * $DEPLOYPATH
